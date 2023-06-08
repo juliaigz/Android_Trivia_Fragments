@@ -84,7 +84,6 @@ public class BlankFragment2 extends Fragment {
             }
         });
 
-
         return mbinding3.getRoot();
     }
 }
